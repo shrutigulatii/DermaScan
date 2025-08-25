@@ -150,7 +150,7 @@ npm run dev
 
 ## 🧑‍💻 Developed By
 
-**Ishan** – CSE Engineering Student
-Feel free to connect on [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/ishan-gupta-7b1078281/) or contribute to the repo!
+**Shruti** – CSE Engineering Student
+Feel free to connect on [LinkedIn]([https://linkedin.com/](https://www.linkedin.com/in/shruti-gulati-5a0402311/) or contribute to the repo!
 
 ---
